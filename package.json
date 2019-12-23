@@ -1,0 +1,22 @@
+{
+  "name": "es6_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neenajohnbritto/ES6_Homework.git"
+  },
+  "author": "Neena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neenajohnbritto/ES6_Homework/issues"
+  },
+  "homepage": "https://github.com/neenajohnbritto/ES6_Homework#readme",
+  "dependencies": {
+    "pdfkit": "^0.11.0"
+  }
+}
